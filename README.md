@@ -48,6 +48,8 @@ npm test
 
 ## Executando a Aplicação
 ```bash
+npm install
+
 npm run dev
 ```
 
